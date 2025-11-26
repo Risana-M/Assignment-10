@@ -49,7 +49,7 @@ function App() {
   return (
     <div className="min-h-screen">
       <header className="w-full h-16 bg-blue-500 flex items-center sticky top-0 left-0 z-50">
-        <Navbar />
+        <NavBar />
       </header>
 
       <main className="bg-gray-200 flex gap-2">
